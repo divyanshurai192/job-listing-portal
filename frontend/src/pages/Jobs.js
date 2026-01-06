@@ -1,0 +1,1 @@
+export default ()=> <h2>Job Listings</h2>
